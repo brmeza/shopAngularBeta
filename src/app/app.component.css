@@ -1,0 +1,9 @@
+
+.categorias{ 
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin: 0px 5px;
+}
